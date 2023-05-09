@@ -1,6 +1,6 @@
  # LINK
  ### 1st PERSONAL PROJECT <a href="https://github.com/jooooung/1st_exSecretary_project"><img src="https://img.shields.io/badge/exSecrtary[운동비서시스템]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
- ### 2nd TEAM PROJECT  <a href="#"><img src="https://img.shields.io/badge/LAS[도서관통합관리시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
+ ### 2nd TEAM PROJECT  <a href="https://github.com/jooooung/jeju-2ndTeamProject"><img src="https://img.shields.io/badge/제주어때[제주도관광정보시스템]-009900?style=for-the-badge&logo=github&logoColor=white"/></a>
  ### 공부일지 <a href="https://github.com/jooooung/sourse"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
  # 📚 SKIL
